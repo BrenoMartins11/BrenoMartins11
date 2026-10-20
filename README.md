@@ -1,29 +1,29 @@
-### Olá, Eu sou o Breno Martins 👋
+### ÓLA! EU SOU A BRENO MARTINS.
 
-[![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/breno-martins-/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno.dev._/)
-
-![BrenoMartins11's Stats](https://github-readme-stats.vercel.app/api?username=BrenoMartins11&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-
-### Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br />
-  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <br />
-  
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo" /> <br />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColorpeScript" /> <br />
- 
-  
-
-  
+<div align="center">
+  <a href="https://github.com/brenomartins11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenomartins11&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomartins11&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-<br />
 
-"A única maneira de fazer um grande trabalho é amar o que você faz." - Steve Jobs
+<div align="center"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-<br />
-<br />
-<h3> Email de contato: </h3> brenodev256@gmail.com
+<div style="list-style-type: none;">
+    <h3>Sobre mim:</h3>
+    <ul>
+        <li>👩‍🎓 Estagiario em Desenvolvimento e Automação - <strong><a href="https://www.codigokid.com.br/" target="_blank">EQTLAB</a></strong>  </li>
+        <li>👩‍💻 Graduando em Sistema de Informação - <strong><a href="https://www.cest.edu.br/" target="_blank">CEST</a></strong></li>
+        <li>💻 Tecnico em Redes de Computadores - <strong>IEMA</strong>.</li>
+        <li>👩‍🏫 Membro da Coordenação de Relações Externa da Liga LUMINA  - <strong><a href="https://www.linkedin.com/company/l-u-m-i-n-a/" target="_blank">LUMINA</a></strong></li>
+    </ul>
+    <br>
+    <a href="https://www.instagram.com/breno.dev._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">  </a>
+    <a href="https://www.linkedin.com/in/breno-martins-/"  target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"target="_blank"></a>
+    <a href="mailto:brenodev256@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
