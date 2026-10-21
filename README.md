@@ -19,7 +19,8 @@
     <ul>
         <li>👩‍🎓 Estagiario em Desenvolvimento e Automação - <strong><a href="https://www.codigokid.com.br/" target="_blank">EQTLAB</a></strong>  </li>
         <li>👩‍💻 Graduando em Sistema de Informação - <strong><a href="https://www.cest.edu.br/" target="_blank">CEST</a></strong></li>
-        <li>💻 Tecnico em Redes de Computadores - <strong>IEMA</strong>.</li>
+        <li>💻 Tecnico em Redes de Computadores - <strong><a href="https://iema.ma.gov.br/" target="_blank">IEMA</a></strong></li>
+        <li>💻 Cursando English Basic 1 - <strong> IEMA IDIOMAS </strong>.</li>
         <li>👩‍🏫 Membro da Coordenação de Relações Externa da Liga LUMINA  - <strong><a href="https://www.linkedin.com/company/l-u-m-i-n-a/" target="_blank">LUMINA</a></strong></li>
     </ul>
     <br>
